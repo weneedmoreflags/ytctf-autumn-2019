@@ -3,4 +3,21 @@
 
 Список райтапов:
 
-* [Go Back] (https://github.com/weneedmoreflags/ytctf-autumn-2019/tree/master/Go%20Back)
+* Assembler
+* Bad formatting 1
+* Digger online
+* Go Back
+* Leave for the future
+* Money
+* Ne prosto
+* Odmen panel 1
+* Odmen panel 2
+* PlaceToSpeak
+* Purple
+* [Regular Expressions]*
+* SAYT
+* SMS-Auth
+* Street Attack
+* Topsy turvy
+* With meaning
+
