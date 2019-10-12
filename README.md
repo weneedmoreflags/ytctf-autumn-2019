@@ -21,5 +21,6 @@
 * [Topsy turvy](./Topsy%20turvy)
 * [With meaning](./With%20meaning)
 * [Tic-Tac-Toe](./Tic-Tac-Toe)
+* [STK Crypto Storage by MrSteyk](./STK%20Crypto%20Storage%20by%20MrSteyk)
 
 Как и всегда, оптимальность решений не гарантируем. :)
