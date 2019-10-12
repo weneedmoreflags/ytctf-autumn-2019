@@ -1,4 +1,4 @@
-# Odmen panel 2 - Web, 150 баллов
+# Odmen panel 2 - Web, 150 баллов [Дорешивание]
 Как и в первой части, находим файл `robots.txt`. Находим интересный файл [1](https://odmen-panel.ctf.yummytacos.me/tools/generate_password.js) и [2](https://odmen-panel.ctf.yummytacos.me/private/users.json).
 В первом находим общую информацию о хэше:
 ```javascript
