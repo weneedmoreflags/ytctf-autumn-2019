@@ -20,5 +20,6 @@
 * [Street Attack](./Street%20Attack)
 * [Topsy turvy](./Topsy%20turvy)
 * [With meaning](./With%20meaning)
+* [Tic-Tac-Toe](./Tic-Tac-Toe)
 
 Как и всегда, оптимальность решений не гарантируем. :)
