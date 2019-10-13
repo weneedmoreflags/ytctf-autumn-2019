@@ -22,5 +22,6 @@
 * [With meaning](./With%20meaning)
 * [Tic-Tac-Toe](./Tic-Tac-Toe)
 * [STK Crypto Storage by MrSteyk](./STK%20Crypto%20Storage%20by%20MrSteyk)
+* [Don't make noise](./Don't%20make%20noise)
 
 Как и всегда, оптимальность решений не гарантируем. :)
