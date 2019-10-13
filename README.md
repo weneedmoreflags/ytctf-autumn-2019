@@ -18,6 +18,7 @@
 * [Purple](./Purple)
 * [[Regular Expressions]*](./[Regular%20Expressions]*)
 * [SAYT](./SAYT)
+* [Secure chat](./Secure%20chat)
 * [SMS-Auth](./SMS-Auth)
 * [STK Crypto Storage by MrSteyk](./STK%20Crypto%20Storage%20by%20MrSteyk)
 * [Street Attack](./Street%20Attack)
