@@ -5,6 +5,7 @@
 
 * [Assembler](./Assembler)
 * [Bad formatting 1](./Bad%20formatting%201)
+* [Bad formatting 2](./Bad%20formatting%202)
 * [Digger online](./Digger%20online)
 * [Don't make noise](./Don't%20make%20noise)
 * [FOTOSTORAGE™](./FOTOSTORAGE™)
